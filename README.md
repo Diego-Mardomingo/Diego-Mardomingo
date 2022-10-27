@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://c4.wallpaperflare.com/wallpaper/482/8/981/simple-background-quote-minimalism-text-wallpaper-preview.jpg" align="center" style="width: 100%" />
 </div>  
   
 
