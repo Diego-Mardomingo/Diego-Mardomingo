@@ -3,11 +3,12 @@
 </div>  
   
 
-### *<div align="center">Mi nombre es Diego, soy desarrollador de aplicaciones web y un apasionado de los ordenadores</div>*  
+### *<div align="center">Mi nombre es Diego, soy desarrollador de aplicaciones web y un apasionado de la tecnología</div>*  
   
 
-- Actualmente estoy terminando mis estudios de desarrollador 📚  
-  
+- Actualmente soy desarrollador web, y estoy realizando algunos proyectos personales 📚
+
+- Trabajo como salesforce developer desarrollando y gestionando proyectos en salesforce, incluyendo desarrollos con Apex y JavaScript. Asimismo poseo experiencia en la implementación de control de versiones con Git y organización de tareas en Jira, todo ello siguiendo una metodología de trabajo Scrum.
 
 - Estoy aprendiendo por mi cuenta Frameworks y lenguajes de programación como Python 🐍  
   
